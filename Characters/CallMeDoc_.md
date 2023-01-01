@@ -21,7 +21,7 @@ They / Them
 
 \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \
 
-// Terrified of Unby
+// Terrified of [[The_Unbeliever_]]
 
 // [[Alacramo]]'s sibling (mother's side, doesn't realize [[Alacramo]] is their sibling)
 
