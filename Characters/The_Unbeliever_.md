@@ -1,2 +1,2 @@
 "Unbi" - A/God (Literally any pronouns, does not care)
-A very old god of war that revels in bloodshed, basically a genocidal maniac that only likes murder, torture, and food. Kind of an asshole, aqauintances with [[Noble_Oraiste]].
+A very old god of war that revels in bloodshed, basically a genocidal maniac that only likes murder, torture, and food. Kind of an asshole, aqauintances with [[Noble_Oraiste]]. They've come from far away to these lands hearing that a war was brewing, and was delighted to find such an interresting little place.

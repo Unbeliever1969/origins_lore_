@@ -1,10 +1,10 @@
 Factions:
- /[[Church Of The CockBlock]]
+ [[Church Of The CockBlock]]
  [[Nordic fuckers]]
  ///////////////////////////
 
 Locations
- /[[Project3c]]
+ [[Project3c]]
  [[Subject 52]]
  [[Subject 54]]
  [[Tree Shrine]]
@@ -12,13 +12,14 @@ Locations
  ////////////////////////////
 
 Players: 
- \[[Alacramo]]
+ [[Alacramo]]
  [[CallMeDoc_]]
  [[DarthWaffle]]
  [[Noble_Oraiste]]
  [[Nugget_Lord]]
  [[ProfMonkey07]]
  [[Raspberry]]
+ [[The_Unbeliever_]]
  [[TheVibeGod]]
  [[Venti]]
  [[Karma]]
