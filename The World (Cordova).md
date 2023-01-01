@@ -24,4 +24,8 @@ Players:
  [[Venti]]
  [[Karma]]
  [[Savinterra]]
+ [[CJ_The_Mage]]
+ [[VoidCatYT]]
+ [[Masengp9]]
+ [[ThePolandRock]]
  //////////////////////////
